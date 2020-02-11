@@ -9,6 +9,7 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
+logo        : MelbourneLogo.png
 ---
 
 ## MHPMap App
