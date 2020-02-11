@@ -22,6 +22,7 @@ logo        : MelbourneLogo.png
 
 ## What is the application for
 
-
+> 1. For crying hard. WTF!
+> 2. I hate slidify
 
 
